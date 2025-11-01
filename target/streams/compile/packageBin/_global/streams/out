@@ -1,0 +1,74 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\cornflakes_2.12-0.2.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\ExtractionAsDS$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\ExtractionAsDS$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\ExtractionAsDS$$typecreator5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\ExtractionAsDS$$typecreator5$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\ExtractionAsDS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\ExtractionAsDS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\ExtractionAsDS$deezer_mood_schema$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\ExtractionAsDS$deezer_mood_schema$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\ExtractionAsDS$deezer_mood_schema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\ExtractionAsDS$deezer_mood_schema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\ExtractionAsDS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\ExtractionAsDS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\Transformation$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\Transformation$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\Transformation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\Transformation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\Transformation$tcc_ceds_schema$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\Transformation$tcc_ceds_schema$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\Transformation$tcc_ceds_schema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\Transformation$tcc_ceds_schema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cornflakes\spark\Transformation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\com\cornflakes\spark\Transformation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\MANIFEST.MF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\emilio.garzia_kineto\Desktop\CornFlakes\target\scala-2.12\classes\META-INF\MANIFEST.MF[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.zip.ZipException: duplicate entry: META-INF/MANIFEST.MF[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.zip.ZipOutputStream.putNextEntry(ZipOutputStream.java:241)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.jar.JarOutputStream.putNextEntry(JarOutputStream.java:115)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.addFileEntry$1(IO.scala:717)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.$anonfun$writeZip$6(IO.scala:726)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.$anonfun$writeZip$6$adapted(IO.scala:726)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foreach(List.scala:431)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.writeZip(IO.scala:726)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.$anonfun$archive$2(IO.scala:676)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.$anonfun$archive$2$adapted(IO.scala:673)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.$anonfun$withZipOutput$1(IO.scala:773)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.$anonfun$withZipOutput$1$adapted(IO.scala:753)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.Using.apply(Using.scala:41)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.withZipOutput(IO.scala:753)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.archive(IO.scala:673)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.io.IO$.jar(IO.scala:638)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Package$.makeJar(Package.scala:229)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Package$.$anonfun$apply$4(Package.scala:152)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Package$.$anonfun$apply$4$adapted(Package.scala:150)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.util.Tracked$.$anonfun$outputChangedW$1(Tracked.scala:129)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Package$.apply(Package.scala:162)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Defaults$.$anonfun$packageTask$1(Defaults.scala:1970)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:49)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$4.work(Transform.scala:69)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:292)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:842)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mpackageBin[0m) java.util.zip.ZipException: duplicate entry: META-INF/MANIFEST.MF[0m

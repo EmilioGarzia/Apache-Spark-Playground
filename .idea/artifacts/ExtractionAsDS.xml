@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ExtractionAsDS">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExtractionAsDS</output-path>
+    <root id="archive" name="ExtractionAsDS.jar">
+      <element id="module-output" name="CornFlakes.main" />
+    </root>
+  </artifact>
+</component>
